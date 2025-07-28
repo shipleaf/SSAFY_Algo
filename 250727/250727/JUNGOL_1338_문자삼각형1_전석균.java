@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-// 풀이 시간 : 23:12 ~
+// 풀이 시간 : 23:12 ~ 24:00
 // 처음 생각한 핵심 아이디어
 // 배열로 관리해서 한꺼번에 출력하자. 첫 대각선의 행,열 합은 N-1이라는 규칙을 찾았다.
 // 마지막 행,열의 합은 (N-1) * 2이다. -> 종료조건
